@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zwangsyc
+- 👋 Hi, I’m @ZengWang
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cryptography
 - 💞️ I’m looking to collaborate on hardware security
