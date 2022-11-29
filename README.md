@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ZengWang
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cryptography
-- 💞️ I’m looking to collaborate on hardware security
+- 👀 I’m interested in hardware security
 - 📫 How to reach me zw3464@nyu.edu
 
 <!---
